@@ -92,8 +92,8 @@ const CONFIG = {
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'headphones',
+			name: 'Spotify',
+			icon: 'spotify',
 			link: 'https://open.spotify.com',
 		},
 		{
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'code',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Mdn',
+					link: 'https://developer.mozilla.org/en-US/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Codepen',
+					link: 'https://codepen.io/trending',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Awwwardsd',
+					link: 'https://www.awwwards.com/collections/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Coding2go',
+					link: 'https://www.youtube.com/@coding2go',
 				},
 			],
 		},
